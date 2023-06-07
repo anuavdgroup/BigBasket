@@ -6,3 +6,5 @@ then
 else
    echo "num is odd"
 fi
+then easy to install
+
